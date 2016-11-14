@@ -15,3 +15,5 @@ public:
 };
 
 #endif // QTFINDCONTACTDIALOG_H
+
+// Sample Commit in Find Contact
